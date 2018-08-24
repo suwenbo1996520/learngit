@@ -7,3 +7,4 @@ Creating a new branch is quick & simple.
 fixed an issue
 modifing
 first
+create an local dev related to remote dev
